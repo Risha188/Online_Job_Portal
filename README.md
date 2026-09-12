@@ -613,19 +613,13 @@ No authentication, database, or server-side application process is required for 
 
 Live Demo:
 
-```text
-<YOUR_DEPLOYED_URL>
-```
+https://online-job-portal-mocha.vercel.app/
+
 
 GitHub Repository:
 
-```text
-<YOUR_GITHUB_REPOSITORY_URL>
-```
+https://github.com/Risha188/Online_Job_Portal.git
 
-Replace the placeholders above with your actual deployment and repository URLs before submission.
-
----
 
 ## 👤 Author
 
@@ -672,8 +666,3 @@ This project was developed as part of the:
 * Responsive UI
 * Clean and maintainable frontend code
 
----
-
-## 📄 License
-
-This project was created for educational and assessment purposes.
